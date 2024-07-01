@@ -57,7 +57,7 @@ In test case, there is a new user named **Shandy**. We predict his membership ba
 
 #### 4. Update user data after predicting membership
 
----------------------------------
+![Alt text](screenshot/test3_1.png)
 
 #### 5. Calculate final price and discount based on membership prediction
 
